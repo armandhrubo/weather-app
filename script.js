@@ -1,4 +1,4 @@
-const api_key = '9739297f98043820bb8e8ab44bdf8c0e';
+const api_key = '97xxxx297xxxx8e8xxxxxx';
 
 // This works 4f0c5f237b428cfe861db9dc06e5875a
 
